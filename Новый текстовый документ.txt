@@ -1,0 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+#f0f2f4
+#f3f3f3
+#f8cd53
+#de2b24
+#f35e59
+#1287bf
+#2a2a2a
+#515151
